@@ -112,8 +112,7 @@ li a:hover {
 }
 /* tom pic */
 #tomTwo {
-    border: none;
-    outline: none;
+    border: 1px white solid;
 }
 /* TEXT BELOW EACK IMAGE, VIDEO */
 .gallery {
